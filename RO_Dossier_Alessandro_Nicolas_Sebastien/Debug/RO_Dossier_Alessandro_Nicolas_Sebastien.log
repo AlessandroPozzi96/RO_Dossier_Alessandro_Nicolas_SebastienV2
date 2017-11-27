@@ -1,0 +1,2 @@
+﻿  Main.c
+f:\aless\documents\github\ro_dossier_alessandro_nicolas_sebastienv2\ro_dossier_alessandro_nicolas_sebastien\main.c(1): fatal error C1853: Le fichier d'en-tête précompilé 'Debug\RO_Dossier_Alessandro_Nicolas_Sebastien.pch' est issu d'une version antérieure du compilateur, ou l'en-tête précompilé est en C++ et vous l'utilisez en C (ou inversement)
